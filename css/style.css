@@ -283,7 +283,7 @@ h2 {
   text-align: center; }
   .advantages__item p {
     font-size: 36px;
-    font-family: 'Navigo';
+    font-family: 'Navigo',sans-serif;
     font-weight: 700;
     margin-bottom: 5px; }
     .advantages__item p span {
@@ -484,7 +484,7 @@ h2 {
 .calculator-result span {
   font-size: 32px;
   line-height: 1.2;
-  font-family: 'Navigo';
+  font-family: 'Navigo', sans-serif;
   font-weight: 700; }
 
 .calculator__info {
